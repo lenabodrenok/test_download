@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="guru.qa.zipSimpleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-05T11:01:31" hostname="DESKTOP-SHH3A2P" time="1.719">
+<testsuite name="guru.qa.ZipSimpleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-06T11:49:17" hostname="DESKTOP-SHH3A2P" time="2.0">
   <properties/>
-  <testcase name="zipReadTest()" classname="guru.qa.zipSimpleTest" time="1.719"/>
+  <testcase name="zipReadTest()" classname="guru.qa.ZipSimpleTest" time="2.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
