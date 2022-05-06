@@ -11,7 +11,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class zipSimpleTest {
+public class ZipSimpleTest {
     ClassLoader classLoader = getClass().getClassLoader();
 
     @Test
